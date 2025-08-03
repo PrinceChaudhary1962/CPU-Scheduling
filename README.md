@@ -22,3 +22,9 @@ Make sure you have `g++` installed.
 ```bash
 g++ cpu_scheduling.cpp -o cpu_scheduling
 ./cpu_scheduling
+
+## Sample Input and Output
+
+**Input:**
+
+
